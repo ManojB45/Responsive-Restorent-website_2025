@@ -5,7 +5,7 @@ Here's a polished description for a responsive restaurant website built with HTM
 
 
 
-**🔗 Live Demo:** [View Portfolio](#) *(https://responsive-resturent-website.netlify.app/)*  
+**🔗 Live Demo:** (https://responsive-resturent-website.netlify.app/)*  
 
 🍽️ Responsive Restaurant Website
 
